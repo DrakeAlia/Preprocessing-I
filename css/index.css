@@ -168,7 +168,7 @@ strong {
   font-weight: bold;
 }
 header {
-  border-bottom: 2px solid #48D1CC
+  border-bottom: 2px solid #48D1CC;
   ;
   margin-bottom: 3%;
 }
@@ -184,7 +184,7 @@ header a {
   font-family: 'KoHo', sans-serif;
   font-weight: bold;
 }
-.landing-info {
+.intro-info {
   display: flex;
   justify-content: space-around;
   align-content: center;
@@ -201,14 +201,9 @@ header a {
     text-align: center;
   }
 }
-.landing-info .close-up {
-  padding-top: 6%;
-  width: 30%;
-  height: 30%;
-}
-.landing-info .name-title {
+.intro-info .name-title {
   font-family: 'KoHo', sans-serif;
-  color: white;
+  color: #37455D;
   font-weight: bold;
 }
 .homepage-content {
